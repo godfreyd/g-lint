@@ -1,9 +1,9 @@
-# g-lint
+# i-magic-lint
 
-Пакет с общими конфигами для ESLint и StyleLint.
+Common configs for ESLint и StyleLint.
 
 ## Installation
 
 ```sh
-npm i -D g-lint
+npm i -D i-magic-lint
 ```

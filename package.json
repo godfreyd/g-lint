@@ -1,8 +1,8 @@
 {
-  "name": "g-lint",
+  "name": "i-magic-lint",
   "version": "0.0.1",
   "description": "Configs for linters",
-  "repository": "https://github.com/godfreyd/g-lint",
+  "repository": "https://github.com/godfreyd/i-magic-lint",
   "author": "Sergey Bocharov",
   "main": "",
   "scripts": {
