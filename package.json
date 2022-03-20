@@ -1,0 +1,40 @@
+{
+  "name": "g-lint",
+  "version": "0.0.1",
+  "description": "Configs for linters",
+  "repository": "https://github.com/godfreyd/g-lint",
+  "author": "Sergey Bocharov",
+  "main": "",
+  "scripts": {
+    "test": "",
+    "prettier": "prettier --write *.js"
+  },
+  "keywords": [
+    "linter",
+    "codestyle",
+    "lint"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.0.1",
+    "@typescript-eslint/parser": "^4.0.1",
+    "eslint": "^7.32.0",
+    "eslint-plugin-ascii": "^1.0.0",
+    "eslint-plugin-import": "^2.23.4",
+    "eslint-plugin-react": "^7.24.0",
+    "eslint-plugin-react-hooks": "^4.2.0",
+    "stylelint-order": "^4.1.0",
+    "stylelint-scss": "^3.20.1"
+  },
+  "peerDependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.0.1",
+    "@typescript-eslint/parser": "^4.0.1"
+  },
+  "files": [
+    "eslintrc.js",
+    "stylelintrc.js"
+  ],
+  "devDependencies": {
+    "prettier": "^2.3.2"
+  }
+}
